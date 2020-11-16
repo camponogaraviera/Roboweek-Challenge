@@ -1,8 +1,6 @@
 # Roboweek Challenge
 
-> This repository contains a snippet (Motion_Algorithm.cpp) provided by the Federal University of Rio Grande (FURG), Brazil. In the aforementioned code snippet there is a very rough Kinematic Motion Algorithm developed by [me](https://github.com/camponogaraviera) (UFSM, NTNU) and my colleague [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition.
-
-- **Year:** `2018.`
+> This repository contains a snippet (Motion_Algorithm.cpp) provided by the Federal University of Rio Grande (FURG), Brazil. In the aforementioned code snippet there is a very rough Kinematic Motion Algorithm developed by [me](https://github.com/camponogaraviera) (UFSM, NTNU) and my colleague [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition held in Brazil, 2018.
 
 # Instructions
 To reproduce the simulation access [this link](https://drive.google.com/drive/folders/1rIWDC9wHPcT_eNRiRx-XcyBCDKqV4Xsh) for instructions with Gazebo simulator.
