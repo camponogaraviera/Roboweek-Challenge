@@ -7,6 +7,7 @@ Challenge: development of an algorithm to drive a TurtleBot inside a maze enviro
 # Award
 
 Second place medal awarded to overall individual team winner of a 24h robotics competition (RoboWeek) at the Federal University of Rio Grande (FURG), Brazil.
+Event Website: http://roboweek.c3.furg.br/
 
 # Instructions
 To reproduce the simulation kindly access [this link](https://drive.google.com/drive/folders/1rIWDC9wHPcT_eNRiRx-XcyBCDKqV4Xsh) for instructions with Gazebo simulator.
