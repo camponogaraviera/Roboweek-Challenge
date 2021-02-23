@@ -1,6 +1,6 @@
 # Roboweek Challenge
 
-> This repository contains a snippet (Motion_Algorithm.cpp) provided by the Federal University of Rio Grande (FURG), Brazil. In the aforementioned snippet, there is a rough Kinematic Algorithm developed by [me](https://github.com/camponogaraviera) (UFSM, NTNU) and my colleague [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition held in Brazil in 2018.
+> This repository contains a rough Kinematic Algorithm developed by [me](https://github.com/camponogaraviera) (UFSM, NTNU) and my colleague [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition held in Brazil in 2018.
 
 Challenge: development of an algorithm for driving a TurtleBot inside a maze environment with the aid of laser sensors. 
 
