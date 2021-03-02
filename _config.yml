@@ -3,6 +3,6 @@ show_downloads: true
 
 # About/contact
 email: monteirocamponogara@gmail.com
-description: Kinematic Motion Algorithm for a TurtleBot in a Gazebo Environment
+description: Kinematic Algorithm for a TurtleBot in a Maze Environment
 author: Lucas Camponogara Viera
 github_username: camponogaraviera
