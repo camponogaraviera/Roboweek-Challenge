@@ -10,11 +10,11 @@ Second place medal awarded to overall individual team winner of a 24h robotics c
 Event Website: http://roboweek.c3.furg.br/
 
 # Instructions
-To reproduce the simulation kindly access [this link](https://drive.google.com/drive/folders/1rIWDC9wHPcT_eNRiRx-XcyBCDKqV4Xsh) for instructions with Gazebo simulator.
+To reproduce the simulation, kindly access [this link](https://drive.google.com/drive/folders/1rIWDC9wHPcT_eNRiRx-XcyBCDKqV4Xsh) for instructions on how to operate the Gazebo simulator.
 
 ![](GazeboSimulator.png)
 
-Below is our TurtleBot completing the entire circuit and leading position in the second to last race. Our implementation was able to complete the entire labyrinth, however, in the finals, our TurtleBot collided with another, consequently overturning and, eventually, we got second place overall according to the distance criteria from the finish line.
+Below is our TurtleBot completing the entire circuit and leading position in the second to last race. Our implementation was able to complete the entire labyrinth. However, in the finals, our bot slammed into another, consequently overturning, and so we got second place overall according to the distance criteria from the finish line.
 ![](competition.gif)
 
 # Author
