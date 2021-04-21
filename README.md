@@ -2,7 +2,9 @@
 
 This repository contains a rough kinematic algorithm developed by me (UFSM, NTNU) and [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition held in Brazil, in 2018.
 
-> Challenge: development of an algorithm for a laser-guided TurtleBot within a maze environment.
+> Challenge: development of a kinematic algorithm for a laser-guided TurtleBot trapped within a maze environment.
+
+> The ansatz: if the length between each laser sensor is different, send the robot towards the direction in which the laser length is longer (dodging the obstacle ahead)—else flip a coin, i.e, any right/left turn is a feasible solution. Although this logic seems very straightforward, a caveat exists (since our robot is blind and has no memory of past tracks) when the maximum gradient points towards the unwanted direction of the starting line. Circumventions must be made.
 
 # Award
 
