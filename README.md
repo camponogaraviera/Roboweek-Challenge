@@ -4,8 +4,6 @@ This repository contains a rough kinematic algorithm developed by me (UFSM, NTNU
 
 > Challenge: development of a kinematic algorithm for a laser-guided TurtleBot trapped within a maze environment.
 
-> The ansatz: if the length between each laser sensor is different, send the robot towards the direction in which the laser length is longer (dodging the obstacle ahead)—else flip a coin, i.e, any right/left turn is a feasible solution. Although this logic seems very straightforward, a caveat exists (since our robot is blind and has no memory of past tracks) when the maximum gradient points towards the unwanted direction of the starting line. Circumventions must be made.
-
 # Award
 
 Second place medal awarded to overall individual team winner of a 24h robotics competition (RoboWeek) at the Federal University of Rio Grande (FURG), Brazil.
@@ -16,7 +14,11 @@ To reproduce the simulation, kindly access [this link](https://drive.google.com/
 
 ![](GazeboSimulator.png)
 
+# Solution 
+
 Below is our TurtleBot completing the entire circuit and leading position in the second to last race. Our implementation was able to complete the entire labyrinth. However, in the finals, our bot slammed into another, consequently overturning, and so we got second place overall according to the distance criteria from the finish line.
+
+The ansatz: if the length between each laser sensor is different, send the robot towards the direction in which the laser length is longer (dodging the obstacle ahead)—else flip a coin, i.e, any right/left turn is a feasible solution. Although this logic seems very straightforward, a caveat exists (since our robot is blind and has no memory of past tracks) when the maximum gradient points towards the unwanted direction of the starting line. Circumventions must be made.
 
 ![](competition.gif)
 
