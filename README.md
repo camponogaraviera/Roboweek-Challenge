@@ -16,7 +16,7 @@ To reproduce the simulation, kindly access [this link](https://drive.google.com/
 
 # Solution 
 
-The ansatz: if the length between each laser sensor is different, send the robot towards the direction in which the laser length is longer (dodging the obstacle ahead)—else—flip a coin, i.e, any right/left turn is a feasible solution. Although this logic seems very straightforward, a caveat exists (since our robot is blind and has no memory of past tracks) when the gradient points towards the direction of the starting line. Circumventions must be made.
+The ansatz: if the length between each laser sensor is different, send the robot towards the direction in which the laser length is longer (dodging the obstacle ahead)—else—flip a coin, i.e, any right/left turn is a feasible solution. Although this logic seems very straightforward, a caveat exists: the gradient may point towards the direction of the starting line, since our robot lacks object detection for reading transit signs and has no memory of past tracks. Circumventions must be made.
 
 Below is our TurtleBot completing the entire circuit and leading position in the second to last race. Our implementation was able to complete the entire labyrinth. However, in the finals, our bot slammed into another, consequently overturning, and so we got second place overall according to the distance criteria from the finish line.
 
