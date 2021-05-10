@@ -1,6 +1,6 @@
 # Roboweek Challenge
 
-This repository contains a rough kinematic algorithm developed by me (UFSM, NTNU) and [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) for the purpose of a 24h robotics competition held in Brazil, in 2018.
+This repository contains a rough kinematic algorithm developed by me (UFSM, NTNU) and [Guilherme Christmann](https://github.com/guichristmann) (UFSM, NTNU) during a 24h robotics competition held in Brazil, in 2018.
 
 > Challenge: development of a kinematic algorithm for a laser-guided TurtleBot within a maze environment.
 
